@@ -15,7 +15,7 @@
 }
 
 html {
-    background: hsl(330, 100%, 98%);
+    background: hsl(38, 100%, 87%);
     font-family: "outfit";
     font-weight: 400;
     font-size: 0.95rem;
@@ -127,12 +127,10 @@ table td {
 }
 
 
-
 /* Footer */
 footer {
     display: flex;
     flex-direction: column;
-
 }
 
 .attribution {
@@ -149,6 +147,7 @@ footer {
         max-width: 500px;
         margin: 5% auto;
         border-radius: 20px;
+        padding: 10px;
     }
 
     .intro img {
