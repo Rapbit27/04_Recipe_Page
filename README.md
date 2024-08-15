@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rapbit27/04_Recipe_Page)
-- Live Site URL: [Add live site URL here](https://rapbit27.github.io/04_Recipe_Page/)
+- Solution URL: [GitHub Solution](https://github.com/Rapbit27/04_Recipe_Page)
+- Live Site URL: [Live Site](https://rapbit27.github.io/04_Recipe_Page/)
 
 
