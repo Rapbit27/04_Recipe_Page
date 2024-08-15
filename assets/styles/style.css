@@ -144,7 +144,7 @@ footer {
 @media screen and (min-width:375px) {
     main {
         width: 75%;
-        max-width: 500px;
+        max-width: 650px;
         margin: 5% auto;
         border-radius: 20px;
         padding: 10px;
