@@ -112,10 +112,11 @@ li {
 table {
     width: 100%;
     text-align: center;
+    border-collapse: collapse;
 }
 
 table td {
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
     padding: 5px;
 }
 
@@ -141,7 +142,7 @@ footer {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width:375px) {
+@media screen and (min-width:48em) {
     main {
         width: 75%;
         max-width: 650px;
